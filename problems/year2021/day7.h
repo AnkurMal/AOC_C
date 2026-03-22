@@ -35,4 +35,4 @@ int get_answer(bool is_part_2) {
 
 void part_1() { printf("Part 1: %d", get_answer(false)); }
 
-void part_2() { printf("Part 1: %d", get_answer(true)); }
+void part_2() { printf("Part 2: %d", get_answer(true)); }
